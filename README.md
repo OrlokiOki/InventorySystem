@@ -66,9 +66,5 @@ InventorySystem/
 Items inherit from `Item` and carry an `Icon` texture assigned at startup by `Game1.LoadItemIcons()`, which maps item names to Content asset names (`"Iron Sword"` → `item_iron_sword`). Missing icons fall back to `item_default`.
 
 ---
-## Adding Item Icons
-Name the PNG `item_youritemname.png` (lowercase, spaces → underscores), place it in `Content/`, add a `#begin` entry to `Content.mgcb` and rebuild Content.
-
----
 ## License
 Educational project for learning purposes. Made by OrlokiOki.
