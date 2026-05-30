@@ -1,0 +1,151 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin testingpixel.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:testingpixel.png
+
+#begin ui_left_panel.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_left_panel.png
+
+#begin ui_right_panel.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_right_panel.png
+
+#begin ui_tab_active.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_tab_active.png
+
+#begin ui_tab_inactive.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_tab_inactive.png
+
+#begin ui_slot_empty.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_slot_empty.png
+
+#begin ui_slot_equipped.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_slot_equipped.png
+
+#begin ui_grid_cell.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_grid_cell.png
+
+#begin ui_search_bar.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_search_bar.png
+
+#begin ui_sort_button.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_sort_button.png
+
+#begin ui_sort_menu_item.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_sort_menu_item.png
+
+#begin ui_scrollbar_track.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_scrollbar_track.png
+
+#begin ui_scrollbar_thumb.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_scrollbar_thumb.png
+
+#begin ui_character_sprite.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_character_sprite.png
+
+#begin ui_name_box.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_name_box.png
+
+#begin ui_alchemy_left_panel.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_alchemy_left_panel.png
+
+#begin ui_mix_slot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_mix_slot.png
+
+#begin ui_result_slot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_result_slot.png
+
+#begin ui_recipe_slot.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_recipe_slot.png
+
+#begin ui_recipe_slot_dimmed.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:ui_recipe_slot_dimmed.png
+
+#begin FontPixel.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/build:FontPixel.spritefont
+
+#begin item_default.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:item_default.png
+
+#begin item_iron_sword.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:item_iron_sword.png
+
+#begin item_steel_dagger.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:item_steel_dagger.png
+
+#begin item_iron_helmet.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:item_iron_helmet.png
+
+#begin item_chain_mail.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:item_chain_mail.png
